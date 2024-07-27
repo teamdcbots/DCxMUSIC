@@ -27,6 +27,7 @@
 </h3>
 
 - [Variables](https://github.com/vicky0604hello/DCxMUSIC/blob/master/sample.env)
+
 - Upgrade and Update by :
 <p>
 `sudo apt-get update && sudo apt-get upgrade -y`
