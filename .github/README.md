@@ -7,7 +7,9 @@
 </h3>
 <h3>
 -API ID 
+<p>
 'get this value from my.telegram.org/apps'
+</p>
 </h3>
 <h3>
 -API HASH
