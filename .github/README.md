@@ -69,19 +69,19 @@
 ➲ **Press `I` on the keyboard for editing env**
   **Press `Ctrl+C` when you're done with editing env and `:wq` to save the env**
 
-8.**Rename the env file**
+ 8. **Rename the env file**
    ```bash
     mv sample.env .env
    ```
-9. **Install tmux to keep running your bot when you close the terminal by**
+ 9. **Install tmux to keep running your bot when you close the terminal by**
    ```bash
       sudo apt install tmux && tmux
    ```
-10. **Run the Bot**
+ 10. **Run the Bot**
     ```bash
     bash start
     ```
-➲ **For getting out from tmux session : Press `Ctrl+b` and then `d`**
+ ➲ **For getting out from tmux session : Press `Ctrl+b` and then `d`**
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
