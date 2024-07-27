@@ -78,9 +78,9 @@
       sudo apt install tmux && tmux
    ```
  10. **Run the Bot**
-    ```bash
-    bash start
-    ```
+     ```bash
+     bash start
+     ```
 <n>
  ➲ **For getting out from tmux session : Press `Ctrl+b` and then `d`**
 </n>
