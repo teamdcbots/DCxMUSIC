@@ -85,3 +85,20 @@ Press `I` on the keyboard for editing env<br>
 </p> 
 </h>
 ━━━━━━━━━━━━━━━━━━━━
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
+
+<p align="center">
+<a href="https://t.me/TEAM_DC_BOTS"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://t.me/TEAM_DC_BOTS"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+
+### Contact :
+<p>
+<a href="https://t.me/DUDE_1203"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+</p>
