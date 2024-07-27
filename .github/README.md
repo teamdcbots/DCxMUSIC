@@ -4,7 +4,7 @@
    # ᆞ_ᆞ 𝐇𝐄𝐑𝐎𝐊𝐔 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 ᆞ_ᆞ#  
 </h2>
 <h3 align="center">
-    [𝐕𝐀𝐑𝐈𝐀𝐁𝐋𝐄 𝐅𝐎𝐑 𝐇𝐄𝐑𝐎𝐊𝐔](ghar jake fill krna link)
+    [𝐕𝐀𝐑𝐈𝐀𝐁𝐋𝐄 𝐅𝐎𝐑 𝐇𝐄𝐑𝐎𝐊𝐔](https://telegra.ph/vTelegraphBot-07-27)
 </h3>
 <h3>
 -API ID 
