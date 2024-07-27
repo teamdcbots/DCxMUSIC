@@ -66,16 +66,22 @@
    ```bash
    vi sample.env
    ```
-**Press `I` on the keyboard for editing env**
-**Press `Ctrl+C` when you're done with editing env and `:wq` to save the env**
+➲ **Press `I` on the keyboard for editing env**
+  **Press `Ctrl+C` when you're done with editing env and `:wq` to save the env**
 
-- Rename the env file by :
-`mv sample.env .env`
-- Install tmux to keep running your bot when you close the terminal by :
-`sudo apt install tmux && tmux`
-- Finally run the bot by :
-`bash start`
-- For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
+8.**Rename the env file**
+   ```bash
+    mv sample.env .env
+   ```
+9. **Install tmux to keep running your bot when you close the terminal by**
+   ```bash
+      sudo apt install tmux && tmux
+   ```
+10. **Run the Bot**
+    ```bash
+    bash start
+    ```
+➲ **For getting out from tmux session : Press `Ctrl+b` and then `d`**
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
