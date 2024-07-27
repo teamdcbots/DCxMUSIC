@@ -2,7 +2,7 @@
   ᆞ_ᆞ 𝘋𝘊 𝘹 𝘔𝘜𝘚𝘐𝘊 ᆞ_ᆞ
 </h2>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vicky0604hello&repo=DCxMUSICtheme=flag-india)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vicky0604hello&repo=DCxMUSIC&theme=flag-india)
 
  [![GIF](https://github.com/vicky0604hello/DCxMUSIC/blob/main/DCxMUSIC.gif)](https://github.com/vicky0604hello)
    [![VIKRANT](https://github-stats-alpha.vercel.app/api?username=vicky0604hello "VIKRANT")](https://github-stats-alpha.vercel.app/api?username=vicky0604hello "VIKRANT")
