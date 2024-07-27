@@ -26,7 +26,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- [𝐕𝐀𝐑𝐈𝐀𝐁𝐋𝐄𝐒](https://github.com/vicky0604hello/DCxMUSIC/blob/master/sample.env)
+- [𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐍𝐄𝐂𝐄𝐒𝐒𝐀𝐑𝐘 𝐕𝐀𝐑𝐈𝐀𝐁𝐋𝐄𝐒](https://github.com/vicky0604hello/DCxMUSIC/blob/master/sample.env)
 <h>
 - Upgrade and Update by :
 <p>
