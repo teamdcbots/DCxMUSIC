@@ -35,60 +35,36 @@
 <H3>
   𝐆𝐈𝐕𝐄 𝐓𝐇𝐄𝐒𝐄 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 𝐈𝐍 𝐘𝐎𝐔𝐑 𝐕𝐏𝐒 𝐎𝐑 𝐋𝐎𝐂𝐀𝐋 𝐇𝐎𝐒𝐓
 </h3>
-<h>
-- Upgrade and Update by :
-<p>
-➲ sudo apt-get update && sudo apt-get upgrade -y
-</p>
-- Install Ffmpeg by :
-<p>
-➲ sudo apt-get install python3-pip ffmpeg -y
-</p>
-- Install required packages by :
-<p>
-➲ sudo apt-get install python3-pip -y
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+1. **Upgrade & Update:**
+   ```bash
+   sudo apt-get update && sudo apt-get upgrade -y
+   ```
+2. **Install Required Packages:**
+   ```bash
+   sudo apt-get install python3-pip ffmpeg -y
+   ```
+`sudo apt-get install python3-pip -y`
 - Install pip by :
-<p>
-➲ sudo pip3 install -U pip
-</p>
+`sudo pip3 install -U pip`
 - Install Node js by :
-<p>
-➲ curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
-</p>
+`curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-<p>
-➲ git clone https://github.com/vicky0604hello/DCxMUSIC && cd DCxMUSIC
-</p>
+`git clone https://github.com/AnonymousX1025/AnonXMusic && cd AnonXMusic`
 - Install requirements by :
-<p>
-➲ pip3 install -U -r requirements.txt
-</p>
+`pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
-<p>
-➲ vi sample.env <br>
-</p>
+`vi sample.env`<br>
 Press `I` on the keyboard for editing env<br>
-<p>
-➲ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
-</p>
+Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - Rename the env file by :
-<p>
-➲ mv sample.env .env
-</p>
+`mv sample.env .env`
 - Install tmux to keep running your bot when you close the terminal by :
-<p>
-➲ sudo apt install tmux && tmux
-</p>
+`sudo apt install tmux && tmux`
 - Finally run the bot by :
-<p>
-➲ bash start
-</p>
-- For getting out from tmux session : 
-<p>
- ➲ Press `Ctrl+b` and then `d`<br>
-</p> 
-</h>
+`bash start`
+- For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
