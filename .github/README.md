@@ -33,8 +33,10 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 - [𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐍𝐄𝐂𝐄𝐒𝐒𝐀𝐑𝐘 𝐕𝐀𝐑𝐈𝐀𝐁𝐋𝐄𝐒](https://github.com/vicky0604hello/DCxMUSIC/blob/master/sample.env)
-<H3>
+
+<h3>
   𝐆𝐈𝐕𝐄 𝐓𝐇𝐄𝐒𝐄 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 𝐈𝐍 𝐘𝐎𝐔𝐑 𝐕𝐏𝐒 𝐎𝐑 𝐋𝐎𝐂𝐀𝐋 𝐇𝐎𝐒𝐓
 </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
