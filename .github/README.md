@@ -82,7 +82,7 @@
      bash start
      ```
 
- ➲ **For getting out from tmux session : Press `Ctrl+b` and then `d`**
+ ➲ **For getting out from tmux session  Press `Ctrl+b` and then `d`**
 
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
