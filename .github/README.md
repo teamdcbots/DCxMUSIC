@@ -27,6 +27,9 @@
 </h3>
 
 - [𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐍𝐄𝐂𝐄𝐒𝐒𝐀𝐑𝐘 𝐕𝐀𝐑𝐈𝐀𝐁𝐋𝐄𝐒](https://github.com/vicky0604hello/DCxMUSIC/blob/master/sample.env)
+<H3>
+  𝐆𝐈𝐕𝐄 𝐓𝐇𝐄𝐒𝐄 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 𝐈𝐍 𝐘𝐎𝐔𝐑 𝐕𝐏𝐒 𝐎𝐑 𝐋𝐎𝐂𝐀𝐋 𝐇𝐎𝐒𝐓
+</h3>
 <h>
 - Upgrade and Update by :
 <p>
