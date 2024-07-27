@@ -27,7 +27,7 @@
 </h3>
 
 - [Variables](https://github.com/vicky0604hello/DCxMUSIC/blob/master/sample.env)
-
+<h>
 - Upgrade and Update by :
 <p>
 `sudo apt-get update && sudo apt-get upgrade -y`
@@ -77,4 +77,5 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 `bash start`
 </p>
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
+</h>
 ━━━━━━━━━━━━━━━━━━━━
