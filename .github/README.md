@@ -95,7 +95,7 @@ Press `I` on the keyboard for editing env<br>
 
 
 
-<p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicky0604hello&show_icons=true&locale=en&layout=compact" alt="DC MUSIC" /></p>
+  <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicky0604hello&show_icons=true&locale=en&layout=compact" alt="DC MUSIC" /></p>
 
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
