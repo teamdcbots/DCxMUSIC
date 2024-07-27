@@ -33,52 +33,55 @@
 <h>
 - Upgrade and Update by :
 <p>
-`sudo apt-get update && sudo apt-get upgrade -y`
+➲ sudo apt-get update && sudo apt-get upgrade -y
 </p>
 - Install Ffmpeg by :
 <p>
-`sudo apt-get install python3-pip ffmpeg -y`
+➲ sudo apt-get install python3-pip ffmpeg -y
 </p>
 - Install required packages by :
 <p>
-`sudo apt-get install python3-pip -y`
+➲ sudo apt-get install python3-pip -y
 </p>
 - Install pip by :
 <p>
-`sudo pip3 install -U pip`
+➲ sudo pip3 install -U pip
 </p>
 - Install Node js by :
 <p>
-`curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
+➲ curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
 </p>
 - Clone the repository by :
 <p>
-`git clone https://github.com/vicky0604hello/DCxMUSIC && cd DCxMUSIC`
+➲ git clone https://github.com/vicky0604hello/DCxMUSIC && cd DCxMUSIC
 </p>
 - Install requirements by :
 <p>
-`pip3 install -U -r requirements.txt`
+➲ pip3 install -U -r requirements.txt
 </p>
 - Fill your variables in the env by :
 <p>
-`vi sample.env`<br>
+➲ vi sample.env <br>
 </p>
 Press `I` on the keyboard for editing env<br>
 <p>
-Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
+➲ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </p>
 - Rename the env file by :
 <p>
-`mv sample.env .env`
+➲ mv sample.env .env
 </p>
 - Install tmux to keep running your bot when you close the terminal by :
 <p>
-`sudo apt install tmux && tmux`
+➲ sudo apt install tmux && tmux
 </p>
 - Finally run the bot by :
 <p>
-`bash start`
+➲ bash start
 </p>
-- For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
+- For getting out from tmux session : 
+<p>
+ ➲ Press `Ctrl+b` and then `d`<br>
+</p> 
 </h>
 ━━━━━━━━━━━━━━━━━━━━
