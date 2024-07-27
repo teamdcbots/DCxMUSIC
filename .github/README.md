@@ -89,7 +89,13 @@ Press `I` on the keyboard for editing env<br>
  ➲ Press `Ctrl+b` and then `d`<br>
 </p> 
 </h>
-━━━━━━━━━━━━━━━━━━━━
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+<p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicky0604hello&show_icons=true&locale=en&layout=compact" alt="DC MUSIC" /></p>
+
+
+<p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEAMPURVI&show_icons=true&locale=en&layout=compact" alt="ʀᴀᴊᴀ ʙᴀʙᴜ" /></p>
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
 </h3>
