@@ -45,19 +45,30 @@
    ```bash
    sudo apt-get install python3-pip ffmpeg -y
    ```
-`sudo apt-get install python3-pip -y`
-- Install pip by :
-`sudo pip3 install -U pip`
-- Install Node js by :
-`curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
-- Clone the repository by :
-`git clone https://github.com/AnonymousX1025/AnonXMusic && cd AnonXMusic`
-- Install requirements by :
-`pip3 install -U -r requirements.txt`
-- Fill your variables in the env by :
-`vi sample.env`<br>
-Press `I` on the keyboard for editing env<br>
-Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
+3. **Setting up PIP**
+   ```bash
+   sudo pip3 install -U pip
+   ```
+
+4. **Installing Node js**
+      ```bash
+      curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
+      ```
+5. **Clone the Repository**
+   ```bash
+   git clone https://github.com/vicky0604hello/DCxMUSIC && cd DCxMUSIC
+   ```
+6. **Install Requirements**
+   ```bash
+   pip3 install -U -r requirements.txt
+   ```
+7. **Fill your variables in the env by**
+   ```bash
+   vi sample.env
+   ```
+**Press `I` on the keyboard for editing env**
+**Press `Ctrl+C` when you're done with editing env and `:wq` to save the env**
+
 - Rename the env file by :
 `mv sample.env .env`
 - Install tmux to keep running your bot when you close the terminal by :
