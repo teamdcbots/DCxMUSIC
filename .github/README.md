@@ -3,7 +3,7 @@
 <h2 align="center">
    # ᆞ_ᆞ 𝐇𝐄𝐑𝐎𝐊𝐔 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 ᆞ_ᆞ#  
 </h2>
-<h2> Get your [Necessary Variables](https://telegra.ph/vTelegraphBot-07-27-2)</h2>
+<h2> Get your [Necessary Variables] (https://telegra.ph/vTelegraphBot-07-27-2)</h2>
 </h3>
 <h3>
 -API ID 
