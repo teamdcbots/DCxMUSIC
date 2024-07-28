@@ -4,6 +4,7 @@
 <h2 align="center">
   ᆞ_ᆞ 𝘋𝘊 𝘹 𝘔𝘜𝘚𝘐𝘊 ᆞ_ᆞ
 </h2>
+<h3><img  style="align-item" :"center" src="https://graph.org/file/e30fbbdabeb4385778f68.jpg" width="80px" height="70%"></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vicky0604hello&repo=DCxMUSIC&theme=flag-india)
