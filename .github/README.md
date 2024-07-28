@@ -2,7 +2,7 @@
 
 
 <h2 align="center">
-  <img  style="align-item" :"center" src="https://graph.org/file/dc565712c080a72b0320e.jpg" width="80px" height="70%">ᆞ_ᆞ𝘋𝘊 𝘹 𝘔𝘜𝘚𝘐𝘊ᆞ_ᆞ<img  style="align-item" :"center" src="https://graph.org/file/dc565712c080a72b0320e.jpg" width="80px" height="70%">
+  <img  style="align-item" :"center" src="https://graph.org/file/dc565712c080a72b0320e.jpg" width="80px" height="70%">**ᆞ_ᆞ𝘋𝘊 𝘹 𝘔𝘜𝘚𝘐𝘊ᆞ_ᆞ**<img  style="align-item" :"center" src="https://graph.org/file/dc565712c080a72b0320e.jpg" width="80px" height="70%">
 </h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
